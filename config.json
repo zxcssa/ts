@@ -1,0 +1,18 @@
+{
+"app_id": "wxc742d1e1ae385ca3", 
+"app_secret": "2fa5cb1ebd96c9762c1a21e608153ba7",
+"template_id": "CL2VrDNw_z6tMsYl60rxbTutvMAxpbZW474MrYp33DE", 
+"user": ["oWeH46ZTP90PWyzMtGxFYUHIsfBI"], 
+"province": "甘肃",
+"city": "兰州", 
+"birthday": "1998-04-08",
+"love_date": "2022-07-02", 
+"Whether_Eng": "否", 
+"Whether_caihongpi": false,
+"Whether_lizhi": false,
+"Whether_tip": false,
+"Whether_health": false, 
+"Whether_lucky": false, 
+"tianxing_API": "fbc5a1e448c5858de8948cd11ea77d88",
+"astro": "白羊座"
+}
